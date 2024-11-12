@@ -3,7 +3,6 @@
 - 🌱 I’m currently studying Software Engineering at Addis Ababa University.
 - 💞️ I’m looking to collaborate on innovative AI projects and technology-driven software solutions and applications.
 - 📫 How to reach me: nardosdamakele@gmail..com
-- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm a music enthusiast and love exploring how sound can inspire creativity in coding!
 
 <!---
